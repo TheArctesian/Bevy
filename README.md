@@ -1,7 +1,7 @@
-# { PROJECT NAME } 
+# Testing Rust Game Dev Libs 
 
 ## Overview 
-
+Bevy is a cool rust 3d and 2f game engine, I have no clue how to use this but testing out. 
 
 
 ## Info
